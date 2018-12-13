@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\wmarco\documents\repos\ll\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  LL.vcxproj -> C:\Users\wmarco\Documents\Repos\LL\Debug\LL.exe
